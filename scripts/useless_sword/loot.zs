@@ -9,7 +9,6 @@ import crafttweaker.api.loot.condition.LootTableIdLootCondition;
 
 var loot_table = [
    <item:useless_sword:magma_sword>,
-   <item:useless_sword:glow_sword>,
    <item:useless_sword:sandstone_sword>,
    <item:useless_sword:neptunium_grab_sword>,
    <item:useless_sword:glowstone_sword>,
