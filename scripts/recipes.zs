@@ -1,0 +1,1 @@
+craftingTable.addShapeless("gunpowder", <item:minecraft:gunpowder>, [<item:minecraft:charcoal>, <item:minecraft:flint>]);
