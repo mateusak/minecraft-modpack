@@ -1,0 +1,21 @@
+
+["AutoTools config"]
+	#AutoTools will always be active and try to get you the best tool. Can be toggled with the set key.
+	toggle = false
+	#Displays the weapons Dps when hovering over it.
+	showDPS = true
+	#Keeps the selected slot when swapping to a new tool instead of using the vanilla mechanics
+	keepSlot = false
+	#Disables AutoTools in creative if toggle is enabled
+	disableCreative = true
+	#Autotools will try to always get a tool with Fortune for gravel and leaves
+	alwaysPreferFortune = false
+	#Autotools will prefer Silk Touch: never, always, except_ores
+	preferSilkTouch = "except_ores"
+	#AutoTools only tries to get a new tool if it is needed to break the block
+	onlySwitchIfNecessary = true
+	#utoTools will prefer the tool already in your hotbar if multiple tools have the same mining speed, regardless their durability
+	preferHotBarTool = true
+	#AutoTools will prefer the tool with the lower durability, instead of the higher one, if they have the same mining speed
+	preferLowDurability = false
+
